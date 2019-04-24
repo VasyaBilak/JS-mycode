@@ -1,0 +1,323 @@
+body {
+	background-color: indigo;
+}
+
+h1 {
+	color: aquamarine;
+	margin-right: 200px;
+}
+
+.C_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	z-index: 50;
+	background-color: #fff;
+	cursor: pointer;
+	left: 366px;
+	top: 142px;
+}
+
+.D_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 56px;
+	z-index: 51;
+	background-color: #fff;
+	cursor: pointer;
+	left: 369px;
+	top: 143px;
+}
+
+.E_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 167px;
+	z-index: 55;
+	background-color: #fff;
+	cursor: pointer;
+	left: 374px;
+	top: 144px;
+}
+
+.G_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 223px;
+	z-index: 56;
+	background-color: #fff;
+	cursor: pointer;
+	left: 376px;
+	top: 144px;
+}
+
+.A_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 279px;
+	z-index: 58;
+	background-color: #fff;
+	cursor: pointer;
+	left: 378px;
+	top: 144px;
+}
+
+.B_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 335px;
+	z-index: 60;
+	background-color: #fff;
+	cursor: pointer;
+	left: 382px;
+	top: 143px;
+}
+
+.C1_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 397px;
+	z-index: 62;
+	background-color: #fff;
+	cursor: pointer;
+	left: 378px;
+	top: 142px;
+}
+
+.D1_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 451px;
+	z-index: 63;
+	background-color: #fff;
+	cursor: pointer;
+	left: 389px;
+	top: 142px;
+}
+
+.E1_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 511px;
+	z-index: 65;
+	background-color: #fff;
+	cursor: pointer;
+	left: 395px;
+	top: 142px;
+}
+
+.F1_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 575px;
+	z-index: 67;
+	background-color: #fff;
+	cursor: pointer;
+	left: 395px;
+	top: 142px;
+}
+
+.Cs_Note {
+	position: absolute;
+	z-index: 52;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 180px;
+	margin-left: 26px;
+	padding-top: 180px;
+	background-color: #000;
+	border-color: black;
+	border-color: red;
+	color: #fff;
+	cursor: pointer;
+	left: 364px;
+	top: 142px;
+}
+
+.Ds_Note {
+	position: absolute;
+	z-index: 54;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 18px;
+	margin-left: 90px;
+	padding-top: 180px;
+	background-color: #000;
+	color: #fff;
+	border-color: black;
+	border-color: red;
+	cursor: pointer;
+	left: 363px;
+	top: 143px;
+}
+
+.Fs_Note {
+	position: absolute;
+	z-index: 57;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 18px;
+	margin-left: 190px;
+	padding-top: 180px;
+	background-color: #000;
+	color: #fff;
+	border-color: black;
+	border-color: red;
+	cursor: pointer;
+	left: 375px;
+	top: 144px;
+}
+
+.Gs_Note {
+	position: absolute;
+	z-index: 59;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 18px;
+	margin-left: 254px;
+	padding-top: 180px;
+	background-color: #000;
+	color: #fff;
+	border-color: black;
+	border-color: red;
+	cursor: pointer;
+	left: 373px;
+	top: 144px;
+}
+
+.Bb_Note {
+	position: absolute;
+	z-index: 61;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 18px;
+	margin-left: 320px;
+	padding-top: 180px;
+	background-color: #000;
+	color: #fff;
+	border-color: black;
+	border-color: red;
+	cursor: pointer;
+	left: 369px;
+	top: 143px;
+}
+
+.Cs1_Note {
+	position: absolute;
+	z-index: 64;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 18px;
+	margin-left: 416px;
+	padding-top: 180px;
+	background-color: #000;
+	color: #fff;
+	border-color: black;
+	border-color: red;
+	cursor: pointer;
+	left: 386px;
+	top: 142px;
+}
+
+.Ds1_Note {
+	position: absolute;
+	z-index: 66;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 18px;
+	margin-left: 482px;
+	padding-top: 180px;
+	background-color: #000;
+	color: #fff;
+	border-color: black;
+	border-color: red;
+	cursor: pointer;
+	left: 389px;
+	top: 142px;
+}
+
+.F_Note {
+	color: #000;
+	position: absolute;
+	padding-top: 258px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 111px;
+	z-index: 53;
+	background-color: #fff;
+	cursor: pointer;
+	left: 373px;
+	top: 143px;
+}
+
+.Cs_Note {
+	color: #fff;
+	position: absolute;
+	padding-top: 180px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 26px;
+	z-index: 52;
+	background-color: #000;
+	cursor: pointer;
+	left: 364px;
+	top: 142px;
+}
+
+.Ds_Note {
+	color: #fff;
+	position: absolute;
+	padding-top: 180px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	padding-left: 18px;
+	margin-left: 90px;
+	z-index: 54;
+	background-color: #000;
+	border-color: black;
+	border-color: red;
+	cursor: pointer;
+	left: 363px;
+	top: 143px;
+}
